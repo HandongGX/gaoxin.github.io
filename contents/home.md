@@ -2,19 +2,22 @@
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Email
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+`<code>`231830150@samil.nju.edu.cn `</code>`
+`<code>`XX@XX.XX `</code>`
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+#### Education
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**XX University**, Master of XX (XX – XX)
+• GPA: XX/XX
 
-#### Research Interests  
+**XX University**, Exchange student `<br>`
+• As a XX, represented my college as an outstanding student for a XX exchange program.
+
+**XX University**, Honours Bachelor of XX (XX – XX)
+• GPA: XX/XX (top XX%)
+
+#### Research Interests
+
 XX, XX, XX, XX.
