@@ -1,15 +1,16 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+我现在就读于南京大学工程管理学院工业智能与系统集成实验班，实验班是一个综合自动化与工业工程的本科专业项目，在读期间需要学习控制与优化两方面的知识内容。
+
+I am currently studying in the Industrial Intelligence and Systems Integration Experimental Class at the School of Management and Engineering, Nanjing University. This experimental class is an undergraduate program that integrates automation and industrial engineering, requiring students to learn knowledge in both control and optimization during their studies.
 
 #### Email
 
-`<code>`231830150@samil.nju.edu.cn `</code>`
-`<code>`XX@XX.XX `</code>`
+231830150@smail.nju.edu.cn
 
 #### Education
 
-**XX University**, Master of XX (XX – XX)
+**Nanjing University**, undergraduate student(**junior**)
 • GPA: XX/XX
 
 **XX University**, Exchange student `<br>`
@@ -18,6 +19,6 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 **XX University**, Honours Bachelor of XX (XX – XX)
 • GPA: XX/XX (top XX%)
 
-#### Research Interests
+#### Interests in Study
 
 XX, XX, XX, XX.
